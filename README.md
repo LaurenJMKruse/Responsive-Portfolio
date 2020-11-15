@@ -61,3 +61,7 @@ Rocky-Mountians.jpg from https://images.huffingtonpost.com/2017-02-05-1486270544
 ## License
 
 This does not apply.
+
+## ADDED AFTER COMMIT AND PUBLISHING
+
+The responsive design was working BEFORE I commit/my pages were published: The navbar collapsed into the hamburger icon (all three pages); the portfolio page shrunk appropriately. I don't understand what happened. Also, prior to publishing, the font was much larger.
